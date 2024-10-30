@@ -1,0 +1,27 @@
+.welcome_panel_content{
+    background-color:purple;
+    padding:30px;
+}
+
+.welcome_panel_content h3{
+    color:#fff;
+    font-size:24px;
+    font-weight:bold
+}
+
+.welcome_panel_content p{
+    color:#fff;
+    font-size:20px;
+}
+
+.welcome_panel_content span{
+    color:#fff;
+    font-size:40px;
+    margin:20px;
+    text-decoration:none;
+}
+
+.welcome_panel_content span:hover{
+    opacity:.7;
+    transition:.3s;
+}
